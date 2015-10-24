@@ -1,50 +1,44 @@
-﻿audition 选秀
-pious girl 信女
-Buddha 菩萨
-strife in the harem 后宫争斗
-true beauty 美人坯子
-hign-ranking office 高官
-the Han Army of the Eight Banners 汉军旗
-reutation 脸面
-the arts of sewing and embroidery 针线女工
-an honorific name 封号
-miscarriage 小产
-Huanyi Incense 欢宜香
-the side door 偏门
-the main gate 正门
-satin 缎子
-the Scarlet Red 一丈红
-a humble servant 奴才
-prescription 方子
-the Imperial Favor Carriage 凤鸾春恩车
-integrity 气节
-Master 师父
-Liar 油嘴
-the Gods of Harmony 和合二仙
-paper cutouts 剪纸
-decree 旨意
-the minx 狐媚东西
-favor 恩宠
-come from a noble family 大家闺秀
-nickname 小字
-First Attendant Wan 菀常在
-Consort Hua 华妃
-Second Attendant 答应
-the Third Prince 三阿哥
-Captain of the Imprial Guard 包衣佐领
-Colonel of Jizhou Garrison 济州协领
-the Magistrate of Jiangxing County 嘉兴知府
-Deputy Magistrate of Songyang County 松阳县丞
-Deputy Chief of the Grand Court of Review 大理寺少卿
-imperial doctor 御医
-an imperial doctor with the means of a humble official 俸禄微薄的御医
-eunuch 公公/太监
-lead eunuch 首领太监
-lead maid 掌事宫女
-the palace mistress 主位娘娘
-Lady Fucha 富察贵人
-Noble Lady 贵人
-noble 王爷
-Marquess Guo 果郡王
-Madam Liu 刘姑姑
-the Governor of Shandong 山东总督
+﻿选秀audition
+信女pious girl
+菩萨Buddha
+后宫争斗strife in the harem
+美人坯子true beauty
+高官hign-ranking office
+汉军旗the Han Army of the Eight Banners
+脸面reutation
+针线女工the arts of sewing and embroidery
+封号an honorific name
+小产miscarriage
+欢宜香Huanyi Incense
+偏门the side door
+正门the main gate
+缎子satin
+一丈红the Scarlet Red
+奴才a humble servant
+方子prescription
+凤鸾春恩车the Imperial Favor Carriage
+气节integrity
+师父Master
+油嘴Liar
+和合二仙the Gods of Harmony
+剪纸paper cutouts
+旨意decree
+狐媚东西the minx
+恩宠favor
+大家闺秀come from a noble family
+小字nickname
+穴位：acupuncture
+合谷穴：Hegu Point
+长相思琴：zither of endless longing 
+长相守：eternal faithfulness
+头风：severe headaches
+敌军流兵：deserters of the enemy 
+军粮： military provisions 
+香囊： sachet 
+侍卫：sentry
+毒妇：vile wench
+朝中重臣：high-ranking official
+乌拉那拉氏：Ula Nara clan
+庶人：the status of a commoner
+节哀：contain his grief
+龙椅：throne

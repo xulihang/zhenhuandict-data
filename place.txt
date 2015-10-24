@@ -1,13 +1,33 @@
-﻿Chengqian Palace 承乾宫
-Yangxin Hall 养心殿
-Suiyu Pavilion 碎玉轩
-Cold Palace 冷宫
-Yikun Palace 翊坤宫
-Xianfu Palace 咸福宫
-Yanxi Palace 延禧宫
-Shunzhen Gate 顺贞门
-the Imperial Harem 后宫
-the Imperial Household Department
-the Imperial Garden 御花园
-the Office of Punishment 慎刑司
-Qianli Pond 千鲤池
+﻿承乾宫Chengqian Palace
+翊坤宫Yikun Palace
+冷宫Cold Palace
+咸福宫Xianfu Palace
+延禧宫Yanxi Palace
+后宫the Imperial Harem
+钟粹宫：Zhongcui Palace
+启祥宫：Qixiang  Palace
+景仁宫：Jingren  Palace
+永寿宫Yongshou Palace
+东六宫： the eastern six palaces
+西六宫： the western six palaces
+春禧殿Chunxi Hall
+养心殿Yangxin Hall
+宝华殿: Baohua Temple
+碧桐书院： Bitong Study Hall 
+存菊堂：Cunju Hall 
+凝晖堂Ninghui Hall
+碎玉轩Suiyu Pavilion
+清凉阁His Pavilion不翻译清凉阁，而是翻译他的，指果郡王的）
+顺贞门Shunzhen Gate
+御花园the Imperial Garden
+百骏园Baijun Garden
+圆明园： Yuanming Palace
+慎刑司the Office of Punishment
+内务府：the Imperial Household Department
+宗人府：Imperial Clan Court
+粘竿处：the Cicada Removal Service
+太医院： the Imperial Medical Bureau
+雁鸣关：Yanming Pass
+桐花台：Tung Blossom Terrace
+千鲤池Qianli Pond
+库房：warehouse

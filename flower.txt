@@ -1,4 +1,19 @@
-﻿begonia 秋海棠
-chrysanthemum 菊花
-red plum 红梅
-apricot 杏花
+﻿秋海棠begonia
+菊花chrysanthemum
+红梅red plum
+杏花apricot
+牡丹：peony 
+兰花：orchid 
+松针: pine needle 
+桃花：peach blossom 
+珍珠粉：pearl powder 
+莲花Lotus
+合欢花Silk tree flower
+羊花（羊踯躅，又名黄杜鹃）Azalea flower
+山参Wild ginseng
+杜若The rabbit-ear iris
+艾叶（艾蒿）Mugwort
+依兰香Ilang-ilang
+蛇床子Cnidium fruit
+芭蕉：plantain
+红花：safflower

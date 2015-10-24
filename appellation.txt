@@ -1,13 +1,50 @@
-﻿concubine  嫔妃
-lady 小姐
-His/Your Majesty 皇上
-the Empress Dowager 太后
-the Empress 皇后
-His/Your Highness 太后
-Queen Mother 皇额娘
-Your Highness/my lady 娘娘
-Young mistresses 小主
-I 臣妾
-His Lordship 王爷
-our 朕
-the late Emperor 先皇
+﻿先皇the late Emperor
+太后the Empress Dowager    
+太妃 :Consort Dowager         加上姓氏如:Consort Dowager Shu 舒太妃
+皇上His/Your Majesty        如有姓氏:Emperor XuanZong 皇帝唐玄宗
+皇后the Empress如有姓氏 :Empress ChunYun 纯元皇后
+副后：the Secondary Empress
+皇额娘Queen Mother
+贵人:Lady +姓氏 如 莞贵人Lady Wan 沈贵人 Lady Shen蕙贵人：Lady Hui 曹贵人：Lady Cao
+常在:First Attendant An
+答应:Second Attendant An 
+嫔妃总称:Concubines(别人这么叫)   丽嫔:Concubine Li 
+妃子总称：Consort +姓氏     加上姓氏如华妃:Consort Hua 端妃:Consort Duan 
+贵妃：Noble Consort
+皇贵妃：Imperial Noble Consort
+王爷:Marquess      加上爵位的王爷尊称  如 果郡王 Marquess Guo 敦亲王:Duke Dun
+侧福晋The secondary spouse侧福晋：Madam
+太子Crown Prince
+皇子Imperial child皇子(储)：the Crown Prince
+沛国公Viscount Pei
+小姐lady
+将军:General
+太医:imperial doctor  如果有姓氏 如:刘太医 Doctor Liu
+太监:eunuchs        如有姓氏  如印公公 Eunuch Yin
+首领太监lead eunuch
+宫女:maids  
+掌事宫女lead maid
+奴才:your servant
+秀女:audition 
+歌姬:a female entertainer
+皇叔Royal Uncle
+嬷嬷：old maidservant
+皇阿玛：Imperial Father
+八爷：the Eighth Lord
+法师：priest
+主位娘娘the palace mistress
+刘姑姑Madam Liu
+山东总督the Governor of Shandong
+包衣佐领Captain of the Imprial Guard
+济州协领Colonel of Jizhou Garrison
+嘉兴知府the Magistrate of Jiangxing County
+松阳县丞Deputy Magistrate of Songyang County 
+大理寺少卿Deputy Chief of the Grand Court of Review
+太后His/Your Highness
+皇后:Empress/ your Highness  
+皇上:Your Majesty /Emperor 
+娘娘Your Highness/my lady
+小主Young mistresses  如果有姓氏: 余小主Miss Yu 
+臣妾I
+王爷His Lordship
+朕our
